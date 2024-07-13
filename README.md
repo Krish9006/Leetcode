@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/Krish9006/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/Krish9006/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Krish9006/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Krish9006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1894-merge-strings-alternately](https://github.com/Krish9006/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
