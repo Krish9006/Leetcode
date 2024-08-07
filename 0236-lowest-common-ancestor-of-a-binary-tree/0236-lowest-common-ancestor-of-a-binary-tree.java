@@ -1,12 +1,3 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
 class Solution {
     public boolean exists(TreeNode root, TreeNode target) {
         if (root == null) return false;
@@ -19,10 +10,13 @@ class Solution {
         
         boolean leftP = exists(root.left, p);
         boolean leftQ = exists(root.left, q);
-        
-        if (leftP != leftQ) return root;
-        
-        TreeNode childSide = leftP ? root.left : root.right;
-        return lowestCommonAncestor(childSide, p, q);
+
+        if (leftP == true && leftQ == true) {
+            return lowestCommonAncestor(root.left, p, q);
+        }
+        if (leftP == false && leftQ == false) {
+            return lowestCommonAncestor(root.right, p, q);
+        }
+        return root; 
     }
 }
