@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Krish9006/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Krish9006/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Krish9006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Krish9006/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Krish9006/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Krish9006/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Krish9006/Leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Krish9006/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Krish9006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Krish9006/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Krish9006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Krish9006/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Krish9006/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
