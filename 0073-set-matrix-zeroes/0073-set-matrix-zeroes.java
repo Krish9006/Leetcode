@@ -1,27 +1,30 @@
 class Solution {
-    public void setZeroes(int[][] arr) {
-        int[] row = new int[200];
-        int[] col = new int[200];
-        int count=0;
-        for(int i=0;i<arr.length;i++){
-            for(int j=0;j<arr[0].length;j++){
-                if(arr[i][j]==0){
-                    row[count]=i;
-                    col[count]=j;
-                    count++;
+    public void setZeroes(int[][] matrix) {
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        boolean[] zeroRows = new boolean[rows];
+        boolean[] zeroCols = new boolean[cols];
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (matrix[i][j] == 0) {
+                    zeroRows[i] = true;
+                    zeroCols[j] = true;
                 }
             }
         }
-        for(int i=0;i<count;i++){
-            for(int j=0;j<arr[0].length;j++){
-                arr[row[i]][j]=0;
+        for (int i = 0; i < rows; i++) {
+            if (zeroRows[i]) {
+                for (int j = 0; j < cols; j++) {
+                    matrix[i][j] = 0;
+                }
             }
         }
-        for(int i=0;i<count;i++){
-            for(int j=0;j<arr.length;j++){
-                arr[j][col[i]]=0;
+        for (int j = 0; j < cols; j++) {
+            if (zeroCols[j]) {
+                for (int i = 0; i < rows; i++) {
+                    matrix[i][j] = 0;
+                }
             }
         }
-        
     }
 }
