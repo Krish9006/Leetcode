@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krish9006/Leetcode/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Krish9006/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Krish9006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Krish9006/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/Krish9006/Leetcode/tree/master/2502-sort-the-people) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Krish9006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Krish9006/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Krish9006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Krish9006/Leetcode/tree/master/2846-robot-collisions) |
 ## Counting
