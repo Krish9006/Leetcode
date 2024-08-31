@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Krish9006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krish9006/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Krish9006/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Krish9006/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krish9006/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Krish9006/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Krish9006/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Krish9006/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Krish9006/Leetcode/tree/master/2502-sort-the-people) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Krish9006/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Krish9006/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Krish9006/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Krish9006/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Krish9006/Leetcode/tree/master/0055-jump-game) |
+| [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Krish9006/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Krish9006/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Krish9006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krish9006/Leetcode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
 ## Trie
 |  |
 | ------- |
@@ -258,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krish9006/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Krish9006/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
