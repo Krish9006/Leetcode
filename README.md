@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Krish9006/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Krish9006/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Krish9006/Leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Krish9006/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Krish9006/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Krish9006/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Krish9006/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Krish9006/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Krish9006/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Krish9006/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Krish9006/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
