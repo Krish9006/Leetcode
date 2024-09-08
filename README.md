@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Krish9006/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Krish9006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish9006/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Krish9006/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Krish9006/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Krish9006/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Krish9006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish9006/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Krish9006/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Krish9006/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Krish9006/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish9006/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Krish9006/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
