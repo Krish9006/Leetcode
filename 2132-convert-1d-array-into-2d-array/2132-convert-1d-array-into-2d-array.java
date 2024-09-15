@@ -4,11 +4,10 @@ class Solution {
             return new int[0][0];
         }
         int [][] res=new int[m][n];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                res[i] = Arrays.copyOfRange(original, i * n, (i + 1) * n);
+        for(int i=0;i<m;i++){   
+        res[i] = Arrays.copyOfRange(original, i * n, (i + 1) * n);
 
-        }
+        
     }
     return res;
 }
