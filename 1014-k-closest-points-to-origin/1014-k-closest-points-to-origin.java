@@ -1,28 +1,15 @@
 import java.util.*;
 
-class Triplet {
-    public final int distanceSquared;
-    public final int x;
-    public final int y;
-
-    public Triplet(int distanceSquared, int x, int y) {
-        this.distanceSquared = distanceSquared;
-        this.x = x;
-        this.y = y;
-    }
-}
-
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        PriorityQueue<Triplet> maxHeap = new PriorityQueue<>((a, b) -> Integer.compare(b.distanceSquared, a.distanceSquared));
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a, b) -> {
+            int distA = a[0] * a[0] + a[1] * a[1];
+            int distB = b[0] * b[0] + b[1] * b[1];
+            return Integer.compare(distB, distA);
+        });
 
         for (int[] point : points) {
-            int x = point[0];
-            int y = point[1];
-            int distanceSquared = x * x + y * y;
-            Triplet triplet = new Triplet(distanceSquared, x, y);
-            maxHeap.offer(triplet);
-
+            maxHeap.add(point);
             if (maxHeap.size() > k) {
                 maxHeap.poll();
             }
@@ -30,9 +17,7 @@ class Solution {
 
         int[][] result = new int[k][2];
         for (int i = 0; i < k; i++) {
-            Triplet triplet = maxHeap.poll();
-            result[i][0] = triplet.x;
-            result[i][1] = triplet.y;
+            result[i] = maxHeap.poll();
         }
 
         return result;
