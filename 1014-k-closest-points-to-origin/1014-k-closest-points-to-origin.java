@@ -1,39 +1,45 @@
-import java.util.*;
+import java.util.PriorityQueue;
+import java.util.Collections;
 
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a, b) -> {
-            int distA = a[0] * a[0] + a[1] * a[1];
-            int distB = b[0] * b[0] + b[1] * b[1];
-            return Integer.compare(distB, distA);
-        });
-
-        for (int[] point : points) {
-            maxHeap.add(point);
-            if (maxHeap.size() > k) {
-                maxHeap.poll();
+        PriorityQueue<Triplet> pq = new PriorityQueue<>(Collections.reverseOrder());
+        
+        for (int i = 0; i < points.length; i++) {
+            int x = points[i][0];
+            int y = points[i][1];
+            int d = x * x + y * y;
+            pq.add(new Triplet(d, x, y));
+            
+            if (pq.size() > k) {
+                pq.remove();
             }
         }
-
-        int[][] result = new int[k][2];
+        
+        int[][] ans = new int[k][2];
         for (int i = 0; i < k; i++) {
-            result[i] = maxHeap.poll();
+            Triplet t = pq.poll();
+            ans[i][0] = t.x;
+            ans[i][1] = t.y;
         }
-
-        return result;
+        
+        return ans;
     }
 }
 
-public class Main {
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int[][] points = {{1, 3}, {-2, 2}, {5, 8}, {0, 1}};
-        int k = 2;
-
-        int[][] closestPoints = solution.kClosest(points, k);
-
-        for (int[] point : closestPoints) {
-            System.out.println(Arrays.toString(point));
-        }
+class Triplet implements Comparable<Triplet> {
+    int dist;
+    int x;
+    int y;
+    
+    Triplet(int dist, int x, int y) {
+        this.dist = dist;
+        this.x = x;
+        this.y = y;
+    }
+    
+    @Override
+    public int compareTo(Triplet other) {
+        return Integer.compare(this.dist, other.dist);
     }
 }
