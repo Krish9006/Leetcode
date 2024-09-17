@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Krish9006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Krish9006/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/Krish9006/Leetcode/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/Krish9006/Leetcode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Krish9006/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Krish9006/Leetcode/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Krish9006/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Krish9006/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Krish9006/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krish9006/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/Krish9006/Leetcode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Krish9006/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Krish9006/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Krish9006/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Krish9006/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Krish9006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Krish9006/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Union Find
 |  |
 | ------- |
