@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Krish9006/Leetcode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Krish9006/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/Krish9006/Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Krish9006/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Krish9006/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Krish9006/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Krish9006/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/Krish9006/Leetcode/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
