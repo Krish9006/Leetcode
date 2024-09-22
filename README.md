@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Krish9006/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krish9006/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Krish9006/Leetcode/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Krish9006/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krish9006/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Krish9006/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krish9006/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Krish9006/Leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krish9006/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krish9006/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krish9006/Leetcode/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0392-is-subsequence) |
 ## Monotonic Queue
 |  |
 | ------- |
