@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Krish9006/Leetcode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Krish9006/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/Krish9006/Leetcode/tree/master/0670-maximum-swap) |
 | [0876-hand-of-straights](https://github.com/Krish9006/Leetcode/tree/master/0876-hand-of-straights) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Krish9006/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Krish9006/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krish9006/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Krish9006/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Krish9006/Leetcode/tree/master/0224-basic-calculator) |
+| [0670-maximum-swap](https://github.com/Krish9006/Leetcode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Krish9006/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krish9006/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/Krish9006/Leetcode/tree/master/1642-water-bottles) |
