@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Krish9006/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Krish9006/Leetcode/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Krish9006/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krish9006/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krish9006/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krish9006/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Krish9006/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Krish9006/Leetcode/tree/master/0224-basic-calculator) |
+| [0367-valid-perfect-square](https://github.com/Krish9006/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/Krish9006/Leetcode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Krish9006/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krish9006/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
