@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Krish9006/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Krish9006/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Krish9006/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Krish9006/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Krish9006/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish9006/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Krish9006/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Krish9006/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Krish9006/Leetcode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Krish9006/Leetcode/tree/master/1642-water-bottles) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Krish9006/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Krish9006/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish9006/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Krish9006/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Krish9006/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Krish9006/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Krish9006/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Krish9006/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish9006/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/Krish9006/Leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Krish9006/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Krish9006/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Krish9006/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Krish9006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Krish9006/Leetcode/tree/master/2846-robot-collisions) |
 ## Counting
