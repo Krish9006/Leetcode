@@ -1,17 +1,14 @@
+import java.util.HashSet;
+
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        int n=arr.length;
-        for(int i=0;i<n;i++){
-        for(int j=0;j<n;j++){
-
-            if(i!=j&&arr[i]==2*arr[j]){
+        HashSet<Integer> seen = new HashSet<>();
+        for (int num : arr) {
+            if (seen.contains(2 * num) || (num % 2 == 0 && seen.contains(num / 2))) {
                 return true;
             }
+            seen.add(num);
         }
-        }
-            
-        
         return false;
     }
 }
-    
