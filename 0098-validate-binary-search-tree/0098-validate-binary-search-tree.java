@@ -1,20 +1,15 @@
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return isValidBST(root, Long.MIN_VALUE, Long.MAX_VALUE);
+        return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 
-    private boolean isValidBST(TreeNode node, long minValue, long maxValue) {
+    private boolean validate(TreeNode node, long min, long max) {
         if (node == null) {
             return true;
         }
-
-        if (node.val <= minValue || node.val >= maxValue) {
+        if (node.val <= min || node.val >= max) {
             return false;
         }
-
-        boolean leftIsValid = isValidBST(node.left, minValue, node.val);
-        boolean rightIsValid = isValidBST(node.right, node.val, maxValue);
-
-        return leftIsValid && rightIsValid;
+        return validate(node.left, min, node.val) && validate(node.right, node.val, max);
     }
 }
