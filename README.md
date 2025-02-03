@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Krish9006/Leetcode/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/Krish9006/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/Krish9006/Leetcode/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/Krish9006/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Krish9006/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Krish9006/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/Krish9006/Leetcode/tree/master/1642-water-bottles) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Krish9006/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Krish9006/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Krish9006/Leetcode/tree/master/0224-basic-calculator) |
+| [1013-fibonacci-number](https://github.com/Krish9006/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish9006/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish9006/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0392-is-subsequence) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Krish9006/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1013-fibonacci-number](https://github.com/Krish9006/Leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -571,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Krish9006/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krish9006/Leetcode/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Krish9006/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
