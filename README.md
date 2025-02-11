@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Krish9006/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Krish9006/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Krish9006/Leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Krish9006/Leetcode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/Krish9006/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Krish9006/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Krish9006/Leetcode/tree/master/0213-house-robber-ii) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Krish9006/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Krish9006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Krish9006/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/Krish9006/Leetcode/tree/master/0174-dungeon-game) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krish9006/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Krish9006/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Krish9006/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Krish9006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Krish9006/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish9006/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0174-dungeon-game](https://github.com/Krish9006/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Krish9006/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Krish9006/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Krish9006/Leetcode/tree/master/0279-perfect-squares) |
