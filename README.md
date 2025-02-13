@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Krish9006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krish9006/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0494-target-sum](https://github.com/Krish9006/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Krish9006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krish9006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Krish9006/Leetcode/tree/master/0506-relative-ranks) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Krish9006/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Krish9006/Leetcode/tree/master/0494-target-sum) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Krish9006/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/Krish9006/Leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Queue
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Krish9006/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krish9006/Leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Krish9006/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Krish9006/Leetcode/tree/master/0494-target-sum) |
 ## Data Stream
 |  |
 | ------- |
