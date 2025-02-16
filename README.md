@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Krish9006/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Krish9006/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Krish9006/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Krish9006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krish9006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Krish9006/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Krish9006/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Krish9006/Leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Krish9006/Leetcode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish9006/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Krish9006/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Krish9006/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Krish9006/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Krish9006/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Krish9006/Leetcode/tree/master/0494-target-sum) |
