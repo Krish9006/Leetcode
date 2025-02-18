@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krish9006/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Krish9006/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Krish9006/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Krish9006/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Krish9006/Leetcode/tree/master/0143-reorder-list) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Krish9006/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Krish9006/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krish9006/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Krish9006/Leetcode/tree/master/0020-valid-parentheses) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Krish9006/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Krish9006/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Krish9006/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krish9006/Leetcode/tree/master/0055-jump-game) |
