@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Krish9006/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0876-hand-of-straights](https://github.com/Krish9006/Leetcode/tree/master/0876-hand-of-straights) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Krish9006/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0945-snakes-and-ladders](https://github.com/Krish9006/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Krish9006/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Krish9006/Leetcode/tree/master/1036-rotting-oranges) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Krish9006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Krish9006/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Krish9006/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0945-snakes-and-ladders](https://github.com/Krish9006/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Krish9006/Leetcode/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Krish9006/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Krish9006/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krish9006/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/Krish9006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Krish9006/Leetcode/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/Krish9006/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Krish9006/Leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Krish9006/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Krish9006/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
