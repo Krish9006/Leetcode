@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Krish9006/Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Krish9006/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Krish9006/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1325-path-with-maximum-probability](https://github.com/Krish9006/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Krish9006/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krish9006/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Krish9006/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Krish9006/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Krish9006/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Krish9006/Leetcode/tree/master/1127-last-stone-weight) |
+| [1325-path-with-maximum-probability](https://github.com/Krish9006/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Krish9006/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Krish9006/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Krish9006/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Krish9006/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Krish9006/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1325-path-with-maximum-probability](https://github.com/Krish9006/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Krish9006/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -699,4 +702,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Krish9006/Leetcode/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/Krish9006/Leetcode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
