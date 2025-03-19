@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Krish9006/Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Krish9006/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Krish9006/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Krish9006/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2846-robot-collisions](https://github.com/Krish9006/Leetcode/tree/master/2846-robot-collisions) |
 | [3324-split-the-array](https://github.com/Krish9006/Leetcode/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/Krish9006/Leetcode/tree/master/3429-special-array-i) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Krish9006/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Krish9006/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Krish9006/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Krish9006/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2846-robot-collisions](https://github.com/Krish9006/Leetcode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Krish9006/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Krish9006/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Krish9006/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Krish9006/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
