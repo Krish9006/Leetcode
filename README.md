@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Krish9006/Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Krish9006/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krish9006/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Krish9006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Krish9006/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Krish9006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Krish9006/Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Krish9006/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Krish9006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Krish9006/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Krish9006/Leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish9006/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krish9006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Krish9006/Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Krish9006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
