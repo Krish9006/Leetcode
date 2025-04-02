@@ -13,7 +13,6 @@ class Solution {
             }
         }
         return islandcount;
-    
     }
     private void dfs(char[][]grid,int r,int c){
           int rows=grid.length;
