@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Krish9006/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish9006/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Krish9006/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2262-solving-questions-with-brainpower](https://github.com/Krish9006/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Krish9006/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Krish9006/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Krish9006/Leetcode/tree/master/2502-sort-the-people) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Krish9006/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Krish9006/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/Krish9006/Leetcode/tree/master/1013-fibonacci-number) |
+| [2262-solving-questions-with-brainpower](https://github.com/Krish9006/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Monotonic Queue
 |  |
 | ------- |
