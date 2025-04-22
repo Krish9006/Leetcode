@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Krish9006/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Krish9006/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/Krish9006/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Krish9006/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Krish9006/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Krish9006/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish9006/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Krish9006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Krish9006/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krish9006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Krish9006/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 ## String
 |  |
 | ------- |
