@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Krish9006/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Krish9006/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish9006/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Krish9006/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Krish9006/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/Krish9006/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Krish9006/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Krish9006/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Krish9006/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Krish9006/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Krish9006/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Krish9006/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Krish9006/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Heap (Priority Queue)
