@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1783-ways-to-make-a-fair-array](https://github.com/Krish9006/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Krish9006/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Krish9006/Leetcode/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/Krish9006/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish9006/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Krish9006/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Krish9006/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Krish9006/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Krish9006/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Krish9006/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1813-maximum-erasure-value](https://github.com/Krish9006/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Krish9006/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Krish9006/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Krish9006/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Krish9006/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Krish9006/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Krish9006/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1813-maximum-erasure-value](https://github.com/Krish9006/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Union Find
 |  |
 | ------- |
