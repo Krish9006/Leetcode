@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Krish9006/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Krish9006/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/Krish9006/Leetcode/tree/master/2502-sort-the-people) |
+| [3617-find-the-original-typed-string-i](https://github.com/Krish9006/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
