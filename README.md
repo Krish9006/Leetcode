@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Krish9006/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krish9006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Krish9006/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Krish9006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Krish9006/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krish9006/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krish9006/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krish9006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Krish9006/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Krish9006/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krish9006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Krish9006/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Krish9006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Krish9006/Leetcode/tree/master/0143-reorder-list) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Krish9006/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Krish9006/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Krish9006/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krish9006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Krish9006/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Krish9006/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Krish9006/Leetcode/tree/master/0169-majority-element) |
