@@ -4,12 +4,10 @@ class Solution {
             if (isEqual(mat, target)) {
                 return true;
             }
-            mat = rotate(mat); // Rotate 90 degrees
+            mat = rotate(mat); 
         }
         return false;
     }
-
-    // Function to check if two matrices are equal
     private boolean isEqual(int[][] a, int[][] b) {
         for (int i = 0; i < a.length; i++) {
             for (int j = 0; j < a[0].length; j++) {
@@ -18,8 +16,6 @@ class Solution {
         }
         return true;
     }
-
-    // Function to rotate matrix 90 degrees clockwise
     private int[][] rotate(int[][] mat) {
         int n = mat.length;
         int[][] rotated = new int[n][n];
