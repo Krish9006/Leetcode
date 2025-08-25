@@ -1,41 +1,27 @@
 class Solution {
     public int[] findDiagonalOrder(int[][] mat) {
-        int m = mat.length, n = mat[0].length;
-        int[] ans = new int[m * n];
-        int r = 0, c = 0, k = 0;
-        boolean up = true; // direction: true = up-right, false = down-left
+        int rows = mat.length;
+        int cols = mat[0].length;
+        List<Integer> ansList = new ArrayList<>();
 
-        while (k < m * n) {
-            ans[k++] = mat[r][c];
+        for (int d = 0; d < rows + cols - 1; d++) {
+            List<Integer> temp = new ArrayList<>();
+            int r = d < cols ? 0 : d - cols + 1;
+            int c = d < cols ? d : cols - 1;
 
-            if (up) { // going up-right
-                if (c == n - 1) {
-                    r++;
-                    up = false;
-                } // right edge
-                else if (r == 0) {
-                    c++;
-                    up = false;
-                } // top edge
-                else {
-                    r--;
-                    c++;
-                } // normal move
-            } else { // going down-left
-                if (r == m - 1) {
-                    c++;
-                    up = true;
-                } // bottom edge
-                else if (c == 0) {
-                    r++;
-                    up = true;
-                } // left edge
-                else {
-                    r++;
-                    c--;
-                } // normal move
+            while (r < rows && c >= 0) {
+                temp.add(mat[r][c]);
+                r++;
+                c--;
             }
+
+            if (d % 2 == 0)
+                Collections.reverse(temp);
+            ansList.addAll(temp);
         }
+        int[] ans = new int[ansList.size()];
+        for (int i = 0; i < ansList.size(); i++)
+            ans[i] = ansList.get(i);
         return ans;
     }
 }
